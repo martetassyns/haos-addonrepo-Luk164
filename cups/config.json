@@ -40,6 +40,5 @@
         "certfile": "str",
         "keyfile": "str",
         "require_ssl": "bool"
-    },
-    "image": "luk164/{arch}-addon-cups"
+    }
 }
